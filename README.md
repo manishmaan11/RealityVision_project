@@ -3,7 +3,6 @@
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-orange)
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Yes-green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
